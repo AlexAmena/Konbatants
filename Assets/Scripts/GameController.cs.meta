@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 807a3f334dc8aa341884edc0665d26bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - buff: {instanceID: 0}
+  - timerText: {fileID: 6864607638756174493, guid: 308af58d26aca6b4ea0b52fe314621ef,
+      type: 3}
+  - suddenText: {fileID: 2115210910013448673, guid: f44e48c95f1c1a0468f3e1e0a781dc7d,
+      type: 3}
+  - deathText: {fileID: 4575110836648215191, guid: ae83b556181e9ed4e8f0b7c9c710ccb8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,7 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - player2
+  - player1
+  - ground
+  - ost
+  - buffObjects
+  - shield
+  - player3
+  - player4
+  - player5
+  - deathZone
+  - timer
+  - playerStats
+  - limiters
   layers:
   - Default
   - TransparentFX
